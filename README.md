@@ -14,7 +14,7 @@ Interactive Slicers: Implemented slicers for category, month, and channel to ena
 Key Insights:
 Women are more likely to buy compared to men: Women account for 65% of the sales.
 Top-performing states: Maharashtra, Karnataka, and Uttar Pradesh lead with 35% of total sales.
-Dominant age group: The age group of 30-49 years contributes the most to sales, with an 80% share.
+Dominant age group: The age group of 30-49 years contributes the most to sales, with an 50% share.
 Top sales channels: Amazon, Flipkart, and Myntra contribute to 80% of the sales.
 
 #DataAnalysis #Excel #DataVisualization #SalesAnalysis #WomenInBusiness #BusinessInsights #LinkedIn
